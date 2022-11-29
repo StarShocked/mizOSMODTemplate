@@ -11,7 +11,7 @@ Once you're finished, the package name for your mizOS package is "yourGithubUser
 
 For example, if you had the github username "Adam" with the repo name "Software", the mizOS package name would be `Adam/software`. Since it is not case sensitive, the package name could also be `adam/software`.
 
-You can put whatever files you want in your repo, just dont delete, change, or move either `install` or `info.lua`.
+You can put whatever files you want in your repo, just dont delete, change, or move either `MIZOSPKG`, `install`, or `info.lua`.
 
 ## What do I put in "install"?
 The `install` file is the installation script for your package. Put whatever you need in here to get your software installed onto the system.
