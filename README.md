@@ -21,9 +21,9 @@ Open the provided `install` file for an example.
 ## What do I put in "info.lua"?
 The `info.lua` file contains important information about your program. Inside this file, you will see multiple tables.
 
-- In `info.pacman_packages`, insert any pacman packages installed by your package/software.
+- In `info.pacman_depends`, insert any pacman packages installed, or needed by your package/software.
 
-- In `info.aur_packages`, insert any AUR packages installed by your package/software.
+- In `info.aur_packages`, insert any AUR packages installed, or needed by your package/software.
 
 - In `info.directories`, insert the ABSOLUTE PATH of any directories created/added by your package/software.
 
