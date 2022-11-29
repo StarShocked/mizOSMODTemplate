@@ -1,8 +1,8 @@
 local info = {}
 
-info.pacman_packages = {"python", "cmatrix"}
+info.pacman_depends = {"python", "cmatrix"}
 
-info.aur_packages = {}
+info.aur_depends = {}
 
 info.directories = {"$HOME/lol", "/etc/anotherlol"}
 
