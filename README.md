@@ -18,6 +18,10 @@ The `install` file is the installation script for your package. Put whatever you
 
 Open the provided `install` file for an example.
 
+## What do I put in "update"?
+The `update` file is the file that is ran whevener a mizOS package is updated.
+Much like the `install` file, put whatever you need in here to update the package on the system.
+
 ## What do I put in "info.lua"?
 The `info.lua` file contains important information about your program. Inside this file, you will see multiple tables.
 
