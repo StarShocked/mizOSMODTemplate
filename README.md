@@ -1,7 +1,7 @@
 # mizOSPKGTemplate
 Package creation template for mizOS packages
 
-Creating a package for mizOS is relatively easy. Basis steps are listed below.
+Creating a package for mizOS is relatively easy. Basic steps are listed below.
 
 1. Fork this repo.
 2. In your fork, edit `install` and `info.lua` accordingly.
