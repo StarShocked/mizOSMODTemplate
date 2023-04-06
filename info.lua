@@ -1,6 +1,6 @@
 local info = {}
 
-info.is_present = true
+info.is_present = true -- DO NOT EDIT
 
 info.pacman_depends = {"python", "cmatrix"}
 
